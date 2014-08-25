@@ -1,0 +1,29 @@
+{
+  "name": "jt-imagemin",
+  "version": "0.0.1",
+  "description": "imagemin processor for jt-cli",
+  "main": "index.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "imagemin",
+    "jt-imagemin"
+  ],
+  "config": {
+  },
+  "author": {
+    "name": "stauren",
+    "email": "stauren@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stauren/jt-imagemin.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.4.1",
+    "imagemin": ">=1.0.4"
+  }
+}
